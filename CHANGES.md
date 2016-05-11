@@ -1,5 +1,8 @@
 ## x.x.x
 
+* Add HTTP path request identifier, which builds destinations from a
+  configurable number of HTTP URI path segments.
+
 ## 0.5.0
 
 * Add a `debugTrace` parameter to the `tracers` config section, which enables
